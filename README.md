@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff1f5,100:f7f8f8&height=180&text=You're%20Welcome!&animation=&fontColor=000000&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"># About Me </h2><b>&nbsp&nbsp프론트엔드 개발자 출신 PM (목표)에서 CEO를 향해 ! (꿈)</b>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"># About Me </h2><b>&nbsp&nbsp프론트엔드 개발자 출신 PM(목표)에서 CEO를 향해(꿈)</b>
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">  </div> 
     </div>
     <div style="text-align: left;">
