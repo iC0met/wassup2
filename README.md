@@ -35,3 +35,5 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iC0met&layout=compact&bg_color=60,d77f2d,f2f2f2&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    <hr>
+    <h2>README page. 추후 업뎃 예정</h2>
